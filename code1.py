@@ -1,4 +1,4 @@
-rating = 4.7
+rating = int(input("Enter the rating: "))
 
 if rating > 4.5 :
   print("Extraordinary")
